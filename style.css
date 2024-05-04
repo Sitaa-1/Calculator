@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #231f1f;
+  }
+  
+  h1 {
+    font-size: 33px;
+  }
+  
+  .text {
+    font-size: 34px;
+    padding: 0px 150px;
+  }
+  
+  .button {
+    padding: 15px;
+    width: 57px;
+    margin: 3px 2px;
+    border: 3px solid #6a7066;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .row {
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .row input {
+    margin: 6px;
+    padding: 5px 20px;
+    width: 171px;
+    border: 2px solid black;
+    border-radius: 4px
+  }
